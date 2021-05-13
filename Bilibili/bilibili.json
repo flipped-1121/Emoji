@@ -1,0 +1,207 @@
+{
+  "Bilibili": {
+    "type": "image",
+    "container": [
+      {
+        "text": "tv_白眼",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/48f75163437445665a9be80bb316e4cb252c5415.gif\">"
+      },
+      {
+        "text": "tv_doge",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/302d6c88c63ed162c81a49cafe7ed2709e6fb955.gif\">"
+      },
+      {
+        "text": "tv_坏笑",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/5d2572efd09aab5dde9e2a198bb3f9ac1e2a982e.gif\">"
+      },
+      {
+        "text": "tv_难过",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/9c6b41008a67755410f712334c64313df5f91b3f.gif\">"
+      },
+      {
+        "text": "tv_生气",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/1902a5a2df5b5c931d88c12f0feb264b1e109d0d.gif\">"
+      },
+      {
+        "text": "tv_委屈",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/af5a5853edb43a8178a8cb5df707fa5e88143699.gif\">"
+      },
+      {
+        "text": "tv_斜眼笑",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/c66568b471192ca1f62f6ed4384dc1b283ab7508.gif\">"
+      },
+      {
+        "text": "tv_呆",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/d3fa91e4db9215eb1e20ab9da44f1214aa4bda7b.gif\">"
+      },
+      {
+        "text": "tv_发怒",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/3959eb81b952e4fa8d269d98f9e3639172d84073.gif\">"
+      },
+      {
+        "text": "tv_惊吓",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/13549060757fcd92b11d0657d9b3b6038f97abb6.gif\">"
+      },
+      {
+        "text": "tv_呕吐",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/db58e9442aae26694af18cc1683607cca3a16763.gif\">"
+      },
+      {
+        "text": "tv_思考",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/b63f9146bfd985af014f8d6d4bdb498805be48f9.gif\">"
+      },
+      {
+        "text": "tv_微笑",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/b98656855d782f61cb8edc7f7fca6563ecafff7e.gif\">"
+      },
+      {
+        "text": "tv_疑问",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/fce1b1a0f3b0e39a2dc16a18508dba7b91e929f4.gif\">"
+      },
+      {
+        "text": "tv_大哭",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/cba61f05f3039b02a7ffc0dfcd9d7995df9fdd74.gif\">"
+      },
+      {
+        "text": "tv_鼓掌",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/be106e6b265883a9f28fbe10f7b765701e2618d4.gif\">"
+      },
+      {
+        "text": "tv_抠鼻",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/696d9f93e722144dc2a78aeffc569418fdf3d565.gif\">"
+      },
+      {
+        "text": "tv_亲亲",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/3534ea44ab74bd20352b88c245a06c4b4c46d271.gif\">"
+      },
+      {
+        "text": "tv_调皮",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/fcd967395fd14e4dd5829fa7e8a967ce23205e52.gif\">"
+      },
+      {
+        "text": "tv_笑哭",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/1c2fd1e8c9dde12812f86e5d4cbddd8993d98082.gif\">"
+      },
+      {
+        "text": "tv_晕",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/030040ec5c9ddc9e3d067658c4139e7314ab42f8.gif\">"
+      },
+      {
+        "text": "tv_点赞",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/30ecff401245fb56bcc1cf588d1809ac1ab1607c.gif\">"
+      },
+      {
+        "text": "tv_害羞",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/411a3e459e8580f5bfd9f639a408247c4b509935.gif\">"
+      },
+      {
+        "text": "tv_睡着",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/3c8b5e293261287a6203597e29b3de07df4d18c6.gif\">"
+      },
+      {
+        "text": "tv_色",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/a0c6d99ab0ab63b8648f5283ff72cec04b604828.gif\">"
+      },
+      {
+        "text": "tv_吐血",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/e17e4539e169d14a3389ff147afea760cebe5de5.gif\">"
+      },
+      {
+        "text": "tv_无奈",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/eb4cb5f07cfd177c7e6a7914316717e56d9cc1d0.gif\">"
+      },
+      {
+        "text": "tv_再见",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/344f61609ecce2008520dc8a977b6169215748a9.gif\">"
+      },
+      {
+        "text": "tv_流汗",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/390bccec65eaff536bd5bb2a0c5b8b0bdea47334.gif\">"
+      },
+      {
+        "text": "tv_偷笑",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/7f11e6f7f63e79112b833bd41fa13a83d7cd8474.gif\">"
+      },
+      {
+        "text": "tv_抓狂",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/a476b93ecd8e94ac3257323fd822f91cef212de2.gif\">"
+      },
+      {
+        "text": "tv_黑人问号",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/b609adf664be33224a9923262031165ae3e34cd2.gif\">"
+      },
+      {
+        "text": "tv_困",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/91c2bf34ecf842d7016c01d841db3d4074bd281f.gif\">"
+      },
+      {
+        "text": "tv_打脸",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/b0fad4856e59c1240e448437da3287bb5ce547e5.gif\">"
+      },
+      {
+        "text": "tv_闭嘴",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/a3fc5388b09e945be3f18fe23bfed5874a0285b7.gif\">"
+      },
+      {
+        "text": "tv_鄙视",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/293b5d459e6264ecf314d20937a936fa672ccd1e.gif\">"
+      },
+      {
+        "text": "tv_腼腆",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/30984e8264324f901d19bea85dada7103b695534.gif\">"
+      },
+      {
+        "text": "tv_馋",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/2525c5703c594e5f0752f68db8948773caebde47.gif\">"
+      },
+      {
+        "text": "tv_可爱",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/f92d20f76258bc5f33fc9d7c5e2a1d41fef19a7c.gif\">"
+      },
+      {
+        "text": "tv_发财",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/76131e52c9b033681b4c896c6024d29ef7ec7ec2.gif\">"
+      },
+      {
+        "text": "tv_生病",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/beb94829fe04f1a41bd6ca611e1f6ca9ca169afa.gif\">"
+      },
+      {
+        "text": "tv_流鼻血",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/8ef473f74a849420da712487b2f56ecca1f695f5.gif\">"
+      },
+      {
+        "text": "tv_尴尬",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/e0b84ef5ee3e5b8978e584c7c5a6550c51d15f84.gif\">"
+      },
+      {
+        "text": "tv_大佬",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/14ca0c05382b8741940942b2430b7a8d55c02f7e.gif\">"
+      },
+      {
+        "text": "tv_流泪",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/7e71cde7858f0cd50d74b0264aa26db612a8a167.png\">"
+      },
+      {
+        "text": "tv_冷漠",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/b9cbc755c2b3ee43be07ca13de84e5b699a3f101.png\">"
+      },
+      {
+        "text": "tv_皱眉",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/72ccad6679fea0d14cce648b4d818e09b8ffea2d.png\">"
+      },
+      {
+        "text": "tv_鬼脸",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/0ffbbddf8a94d124ca2f54b360bbc04feb6bbfea.png\">"
+      },
+      {
+        "text": "tv_调侃",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/4bc022533ef31544ca0d72c12c808cf4a1cce3e3.png\">"
+      },
+      {
+        "text": "tv_目瞪口呆",
+        "icon": "<img src=\"https://i0.hdslb.com/bfs/emote/0b8cb81a68de5d5365212c99375e7ace3e7891b7.png\">"
+      }
+    ]
+  }
+}
